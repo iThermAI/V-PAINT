@@ -1,0 +1,11 @@
+
+=== Sat Mar 15 15:07:27 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.cinemachine from version 2.10.0 to 2.10.1
+  com.unity.collab-proxy from version 2.3.1 to 2.4.3
+  com.unity.feature.2d from version 2.0.0 to 2.0.1
+  com.unity.ide.rider from version 3.0.28 to 3.0.31
